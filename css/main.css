@@ -7,6 +7,7 @@
 #main-page-title {
     font-size: 75px;
     font-weight: bold;
+    margin: 24px auto;
 }
 
 .recipe-link {
@@ -15,18 +16,36 @@
     font-style: bold;
 }
 
+a {
+    text-decoration: none;
+    color: goldenrod;
+}
+
 h1 {
     font-size: 48px;
     font-weight: bold;
+    text-align: center;
+    margin: 10px auto;
 }
 
 p,
 li {
     font-size: 18px;
     padding: 5px;
-    width: 75%;
+    width: auto;
+}
+
+li {
+    margin: 15px 25px;
+}
+
+ul,
+ol {
+    padding: 0;
 }
 
 img {
     padding: 10px;
+    display: block;
+    margin: auto;
 }
