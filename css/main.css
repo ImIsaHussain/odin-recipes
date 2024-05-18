@@ -1,0 +1,32 @@
+* {
+    background-color: rgb(37, 37, 37);
+    color: aliceblue;
+    font-family: 'Tahoma', 'Trebuchet MS', sans-serif;
+}
+
+#main-page-title {
+    font-size: 75px;
+    font-weight: bold;
+}
+
+.recipe-link {
+    color: goldenrod;
+    font-size: 20px;
+    font-style: bold;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+p,
+li {
+    font-size: 18px;
+    padding: 5px;
+    width: 75%;
+}
+
+img {
+    padding: 10px;
+}
